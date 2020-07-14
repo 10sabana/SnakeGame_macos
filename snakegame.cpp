@@ -1,6 +1,6 @@
 /* 
     SNAKE GAME FOR MACOS
-        Made by Mr. Cho
+            Made by Mr. Cho
 
     "Snake Game" only operated on the Mac OS
     If you want to compile this file, you need to use Command
