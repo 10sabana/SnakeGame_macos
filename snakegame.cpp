@@ -1,5 +1,6 @@
 /* 
-    SNAKE GAME FOR MACOS
+///////////////////////////////////////////////////////////
+   SNAKE GAME FOR MACOS
             Made by Mr. Cho
 
     "Snake Game" only operated on the Mac OS
@@ -7,7 +8,8 @@
                         -> gcc -o snakegame snakegame.cpp -lncurses
 
     * Need to revise : time count
-    ** According to the score, show prize and penalty 
+    ** According to the score, show prize and penalty
+///////////////////////////////////////////////////////////
 */
 
 #include <cstdlib>
